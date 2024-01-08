@@ -77,7 +77,7 @@ void Car::input()
     cin >> price;
 
     cin.ignore(); 
-}
+} 
 
 void Car::display() const 
 {
