@@ -4,7 +4,7 @@ class Car
 {
 char brand[50];
 char model[50];
-int year;
+int year; 
 double price;
 
 public:
